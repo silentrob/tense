@@ -1,0 +1,23 @@
+{
+  "name": "tense",
+  "version": "0.0.1",
+  "description": "Lookup the tense of a (regular or irregular) verb.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tense",
+    "verb",
+    "english",
+    "verb",
+    "phrase",
+    "pos",
+    "nlp"
+  ],
+  "author": "Rob Ellis",
+  "license": "MIT"
+}
