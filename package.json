@@ -1,5 +1,5 @@
 {
-  "name": "tense",
+  "name": "node-tense",
   "version": "0.0.1",
   "description": "Lookup the tense of a (regular or irregular) verb.",
   "main": "index.js",
